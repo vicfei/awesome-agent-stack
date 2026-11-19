@@ -4,9 +4,9 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [LoopX](https://github.com/loopx-project/loopx) | control plane | 🟡 beta | 6724 | 12344 | 2026-11-19 | ✓ |
-| [Restate](https://github.com/restatedev/restate) | durable runtime | 🟢 production | 4720 | 568 | 2026-11-19 | ✗ |
-| [Temporal](https://github.com/temporalio/temporal) | durable runtime | 🟢 production | 24504 | 552 | 2026-11-19 | ✗ |
+| [LoopX](https://github.com/loopx-project/loopx) | control plane | 🟡 beta | 6724 | 12342 | 2026-11-19 | ✓ |
+| [Restate](https://github.com/restatedev/restate) | durable runtime | 🟢 production | 4721 | 568 | 2026-11-19 | ✗ |
+| [Temporal](https://github.com/temporalio/temporal) | durable runtime | 🟢 production | 24506 | 551 | 2026-11-19 | ✗ |
 | [dapr-agents](https://github.com/dapr/dapr-agents) | framework | 🟡 beta | 778 | 291 | 2026-11-12 | ✗ |
 
 ### notes
