@@ -1,0 +1,29 @@
+name: heartbeat
+on:
+  schedule: [{ cron: "0 6 * * 1" }] # Mondays 06:00 UTC
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: node atlas/scripts/refresh.mjs
+        env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
+      - run: node atlas/scripts/render.mjs
+      - name: ledger
+        run: |
+          TS=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          PREV=$(tail -1 ledger/updates.jsonl | python3 -c "import sys,json;print(json.loads(sys.stdin.read())['hash'])" 2>/dev/null || printf '0%.0s' {1..64})
+          HASH=$(printf '%s' "$TS" | sha256sum | cut -d' ' -f1)
+          printf '{"ts":"%s","prev":"%s","hash":"%s","what":"weekly metrics refresh"}\n' "$TS" "$PREV" "$HASH" >> ledger/updates.jsonl
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          title: "heartbeat: weekly metrics refresh"
+          body: "Automated weekly refresh — metrics + rendered tables + ledger row. Human merge = the contract."
+          commit-message: "heartbeat: weekly metrics refresh"
+          branch: heartbeat
