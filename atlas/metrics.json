@@ -14,7 +14,7 @@
     "archived": false
   },
   "anthropics/skills": {
-    "stars": 197605,
+    "stars": 197618,
     "pushed": "2026-11-16T14:22:50Z",
     "lastRelease": "2026-11-16",
     "commits90d": 12,
@@ -69,7 +69,7 @@
     "archived": false
   },
   "ag-ui-protocol/ag-ui": {
-    "stars": 20588,
+    "stars": 20592,
     "pushed": "2026-11-19T07:05:09Z",
     "lastRelease": "2026-11-19",
     "commits90d": 1909,
@@ -80,7 +80,7 @@
   },
   "botiverse/oar": {
     "stars": 662,
-    "pushed": "2026-11-19T17:28:05Z",
+    "pushed": "2026-11-19T17:50:08Z",
     "lastRelease": "2026-11-19",
     "commits90d": 1061,
     "archived": false
@@ -96,36 +96,36 @@
     "archived": false
   },
   "deepseek-ai/deepseek-harness": {
-    "stars": 284145,
+    "stars": 284153,
     "pushed": "2026-11-18T12:48:10Z",
     "lastRelease": "2026-11-18",
-    "commits90d": 14843,
+    "commits90d": 14842,
     "archived": false
   },
   "anthropics/claude-code": {
-    "stars": 156308,
-    "pushed": "2026-11-19T17:30:54Z",
+    "stars": 156310,
+    "pushed": "2026-11-19T18:01:55Z",
     "lastRelease": "2026-11-19",
-    "commits90d": 338,
+    "commits90d": 339,
     "archived": false
   },
   "openai/codex": {
-    "stars": 135881,
-    "pushed": "2026-11-19T17:13:27Z",
+    "stars": 135882,
+    "pushed": "2026-11-19T18:05:45Z",
     "lastRelease": "2026-11-19",
-    "commits90d": 4244,
+    "commits90d": 4246,
     "archived": false
   },
   "sst/opencode": {
-    "stars": 227997,
-    "pushed": "2026-11-19T17:28:25Z",
+    "stars": 228002,
+    "pushed": "2026-11-19T18:11:51Z",
     "lastRelease": "2026-11-19",
-    "commits90d": 5530,
+    "commits90d": 5527,
     "archived": false
   },
   "google-gemini/gemini-cli": {
     "stars": 108939,
-    "pushed": "2026-11-19T17:27:15Z",
+    "pushed": "2026-11-19T17:54:43Z",
     "lastRelease": "2026-11-19",
     "commits90d": 250,
     "archived": false
@@ -145,8 +145,8 @@
     "archived": false
   },
   "google/ax": {
-    "stars": 14805,
-    "pushed": "2026-11-19T16:03:13Z",
+    "stars": 14806,
+    "pushed": "2026-11-19T18:00:04Z",
     "lastRelease": "2026-11-19",
     "commits90d": 120,
     "archived": false
@@ -166,43 +166,43 @@
     "archived": false
   },
   "Tencent/LoopForge": {
-    "stars": 4033,
-    "pushed": "2026-11-19T17:17:46Z",
+    "stars": 4034,
+    "pushed": "2026-11-19T18:12:14Z",
     "lastRelease": "2026-11-19",
     "commits90d": 360,
     "archived": false
   },
   "pingdotgg/t3code": {
-    "stars": 66165,
-    "pushed": "2026-11-19T17:26:00Z",
+    "stars": 66185,
+    "pushed": "2026-11-19T18:09:17Z",
     "lastRelease": "2026-11-19",
-    "commits90d": 9752,
+    "commits90d": 9757,
     "archived": false
   },
   "getpaseo/paseo": {
-    "stars": 24456,
+    "stars": 24458,
     "pushed": "2026-11-19T15:10:28Z",
     "lastRelease": "2026-11-19",
     "commits90d": 1613,
     "archived": false
   },
   "ccch1mneyyy/dsh-Go": {
-    "stars": 28093,
-    "pushed": "2026-11-19T17:30:42Z",
+    "stars": 28105,
+    "pushed": "2026-11-19T18:08:46Z",
     "lastRelease": "2026-11-19",
-    "commits90d": 2905,
+    "commits90d": 2912,
     "archived": false
   },
   "temporalio/temporal": {
-    "stars": 24503,
-    "pushed": "2026-11-19T16:29:52Z",
+    "stars": 24504,
+    "pushed": "2026-11-19T18:03:49Z",
     "lastRelease": "2026-11-19",
     "commits90d": 552,
     "archived": false
   },
   "restatedev/restate": {
     "stars": 4720,
-    "pushed": "2026-11-19T17:23:49Z",
+    "pushed": "2026-11-19T17:46:43Z",
     "lastRelease": "2026-11-19",
     "commits90d": 568,
     "archived": false
@@ -215,10 +215,10 @@
     "archived": false
   },
   "agent-substrate/substrate": {
-    "stars": 7772,
-    "pushed": "2026-11-19T16:34:51Z",
+    "stars": 7777,
+    "pushed": "2026-11-19T18:02:58Z",
     "lastRelease": "2026-11-19",
-    "commits90d": 1149,
+    "commits90d": 1150,
     "archived": false
   },
   "vicfei/dsh-super-agent": {
@@ -261,6 +261,20 @@
     "pushed": "2026-11-13T06:39:02Z",
     "lastRelease": "2026-11-13",
     "commits90d": 35,
+    "archived": false
+  },
+  "agentscope-ai/AgentTeams": {
+    "stars": 6054,
+    "pushed": "2026-11-19T18:02:03Z",
+    "lastRelease": "2026-11-19",
+    "commits90d": 317,
+    "archived": false
+  },
+  "loopx-project/loopx": {
+    "stars": 6724,
+    "pushed": "2026-11-19T18:12:26Z",
+    "lastRelease": "2026-11-19",
+    "commits90d": 12344,
     "archived": false
   }
 }

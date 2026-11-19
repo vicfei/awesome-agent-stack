@@ -4,10 +4,10 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) | runtime | 🟢 production | 284145 | 14843 | 2026-11-18 | ✗ |
-| [OpenCode](https://github.com/sst/opencode) | runtime | 🟡 beta | 227997 | 5530 | 2026-11-19 | ✗ |
-| [Codex](https://github.com/openai/codex) | runtime | 🟢 production | 135881 | 4244 | 2026-11-19 | ✗ |
-| [Claude Code](https://github.com/anthropics/claude-code) | runtime | 🟢 production | 156308 | 338 | 2026-11-19 | ✗ |
+| [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) | runtime | 🟢 production | 284153 | 14842 | 2026-11-18 | ✗ |
+| [OpenCode](https://github.com/sst/opencode) | runtime | 🟡 beta | 228002 | 5527 | 2026-11-19 | ✗ |
+| [Codex](https://github.com/openai/codex) | runtime | 🟢 production | 135882 | 4246 | 2026-11-19 | ✗ |
+| [Claude Code](https://github.com/anthropics/claude-code) | runtime | 🟢 production | 156310 | 339 | 2026-11-19 | ✗ |
 | [Gemini CLI](https://github.com/google-gemini/gemini-cli) | runtime | 🟡 beta | 108939 | 250 | 2026-11-19 | ✗ |
 | [Cursor](https://github.com/getcursor/cursor) | runtime (IDE) | 🟢 production | 33342 | 0 | 2026-05-12 | ✗ |
 

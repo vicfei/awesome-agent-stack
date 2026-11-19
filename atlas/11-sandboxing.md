@@ -4,7 +4,7 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [Agent Substrate](https://github.com/agent-substrate/substrate) | substrate | 🟡 beta | 7772 | 1149 | 2026-11-19 | ✗ |
+| [Agent Substrate](https://github.com/agent-substrate/substrate) | substrate | 🟡 beta | 7777 | 1150 | 2026-11-19 | ✗ |
 | [worktree + bwrap pattern](https://github.com/vicfei/dsh-super-agent) | pattern | 🟢 production | 26 | 114 | 2026-11-18 | ✗ |
 
 ### notes

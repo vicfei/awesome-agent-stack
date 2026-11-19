@@ -4,7 +4,7 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [AG-UI](https://github.com/ag-ui-protocol/ag-ui) | wire protocol | ⚪ experimental | 20588 | 1909 | 2026-11-19 | ✗ |
+| [AG-UI](https://github.com/ag-ui-protocol/ag-ui) | wire protocol | ⚪ experimental | 20592 | 1909 | 2026-11-19 | ✗ |
 | [Agent Client Protocol](https://github.com/zed-industries/agent-client-protocol) | wire protocol | 🟡 beta | 4682 | 803 | 2026-11-19 | ✗ |
 | [LSAP](https://github.com/zed-industries/lsap) | protocol | ⚪ experimental | — | — | — | ✗ |
 
