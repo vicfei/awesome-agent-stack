@@ -43,7 +43,7 @@ const fmtStars = (n) => (n >= 1000 ? `${Math.round(n / 100) / 10}kâ˜…` : `${n}â˜
 // otherwise package-style entries inherit the host repo's stars and double-count.
 const seenRepos = new Set();
 const topByStars = (layerId) => ENTRIES
-  .filter((e) => e.layer === layerId && !seenRepos.has(e.repo))
+  .filter((e) => e.layer === layerId && !seenRepos.has(e.repo) && !e.noRep)
   .map((e) => ({ e, stars: Number(m(e.repo, "stars")) || 0 }))
   .sort((a, b) => b.stars - a.stars)
   .slice(0, 2)

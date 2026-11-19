@@ -21,9 +21,9 @@ Not another link dump. Thirteen layers from protocols to governance, each with a
 | [08](atlas/08-delivery.md) | Delivery & SOP | How does agent work become governed deliveries? | [LoopForge](https://github.com/Tencent/LoopForge) 4k★ |
 | [09](atlas/09-cockpits.md) | Cockpits | Where do humans steer fleets from? | [t3code](https://github.com/pingdotgg/t3code) 66.2k★ · [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) 28.1k★ |
 | [10](atlas/10-durable.md) | Durable execution | What survives the crash? | [Temporal](https://github.com/temporalio/temporal) 24.5k★ · [LoopX](https://github.com/loopx-project/loopx) 6.7k★ |
-| [11](atlas/11-sandboxing.md) | Sandboxing & substrate | How is untrusted work isolated? | [Agent Substrate](https://github.com/agent-substrate/substrate) 7.8k★ · [worktree + bwrap pattern](https://github.com/vicfei/dsh-super-agent) 26★ |
+| [11](atlas/11-sandboxing.md) | Sandboxing & substrate | How is untrusted work isolated? | [Agent Substrate](https://github.com/agent-substrate/substrate) 7.8k★ |
 | [12](atlas/12-observability.md) | Observability & diaries | What did the agents actually do? | [agentdiary](https://github.com/vicfei/agentdiary) 1★ · [dsh-agentdiary-plugin](https://github.com/vicfei/agentdiary-dsh-plugin) 0★ |
-| [13](atlas/13-governance.md) | Governance, admission & evidence | Who may act, on what evidence, approved by whom? | [Piccolo](https://github.com/agentscope-ai/Piccolo) 58★ |
+| [13](atlas/13-governance.md) | Governance, admission & evidence | Who may act, on what evidence, approved by whom? | [Piccolo](https://github.com/agentscope-ai/Piccolo) 58★ · [dsh-super-agent](https://github.com/vicfei/dsh-super-agent) 26★ |
 <!-- END layer-index -->
 
 ## How to read it

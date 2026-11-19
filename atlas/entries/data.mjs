@@ -76,7 +76,7 @@ export const ENTRIES = [
 
   // ── 11 sandboxing & substrate ──────────────────────────────────────────────
   { layer: "11", name: "Agent Substrate", repo: "agent-substrate/substrate", form: "substrate", what: "Sandboxed execution substrate (actors) — what google/ax runs tasks on.", status: "beta" },
-  { layer: "11", name: "worktree + bwrap pattern", repo: "vicfei/dsh-super-agent", form: "pattern", what: "Per-ticket git worktrees + bubblewrap namespaces with network kill — the lightweight end of the isolation spectrum.", status: "production", verified: "2026-11-18" },
+  { layer: "11", name: "worktree + bwrap pattern", repo: "vicfei/dsh-super-agent", form: "pattern", noRep: true, what: "Per-ticket git worktrees + bubblewrap namespaces with network kill — the lightweight end of the isolation spectrum.", status: "production", verified: "2026-11-18" },
 
   // ── 12 observability & diaries ─────────────────────────────────────────────
   { layer: "12", name: "agentdiary", repo: "vicfei/agentdiary", form: "CLI", what: "Your agents keep a diary — in your own git repo. Append-only entries, snapshot memory, CI-grade verify.", status: "beta", mechanism: "Directory contract (sessions/ append-only + memory/ snapshot + agentdiary.toml); zero-dep offline fast paths; scan tiers; same entry spelling as the DSH plugin.", verified: "2026-11-18" },
