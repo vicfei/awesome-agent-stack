@@ -4,19 +4,19 @@
 // verified: only set a date when we actually read the source / ran the thing. Otherwise "not-yet-verified".
 
 export const LAYERS = [
-  { id: "01", slug: "foundations", name: "Foundations & formats", mission: "The base protocols and conventions everything else borrows vocabulary from." },
-  { id: "02", slug: "tool-context", name: "Tool & context", mission: "How agents reach tools and context — the first layer that got standardized, and the most settled." },
-  { id: "03", slug: "agent-to-agent", name: "Agent-to-agent", mission: "Protocols for independent agents to find, delegate to, and pay each other." },
-  { id: "04", slug: "agent-to-ui", name: "Agent-to-UI & editor", mission: "How interfaces (editors, web UIs) drive an agent and render its work." },
-  { id: "05", slug: "harness-interfaces", name: "Harness interfaces", mission: "Programming interfaces for driving ANY harness with one API — the actively contested slot." },
-  { id: "06", slug: "runtimes", name: "Runtimes & harnesses", mission: "The agent execution loops themselves: model ↔ tools ↔ files, with sessions, approvals, compaction." },
-  { id: "07", slug: "orchestration", name: "Orchestration & swarms", mission: "Multi-agent coordination, teaming, and cluster-scale task running." },
-  { id: "08", slug: "delivery", name: "Delivery & SOP", mission: "Turning agent work into governed deliveries: pipelines, human gates, SOPs." },
-  { id: "09", slug: "cockpits", name: "Cockpits", mission: "The surfaces humans steer fleets from — web panels, phone apps, desktop decks." },
-  { id: "10", slug: "durable", name: "Durable execution", mission: "Checkpointing, resumption, and workflow state that survives crashes." },
-  { id: "11", slug: "sandboxing", name: "Sandboxing & substrate", mission: "Isolation for untrusted agent work — from worktrees to gVisor actors." },
-  { id: "12", slug: "observability", name: "Observability & diaries", mission: "Recording what agents did: session diaries, ledgers, traces." },
-  { id: "13", slug: "governance", name: "Governance, admission & evidence", mission: "WHO may act, on WHAT evidence, approved by WHOM. The blank continent — every other list skips it." },
+  { id: "01", slug: "foundations", name: "Foundations & formats", mission: "The base protocols and conventions everything else borrows vocabulary from." , zhName: "基础与格式", q: "What conventions does everything borrow?", zhQ: "大家都在借用的约定是什么？" },
+  { id: "02", slug: "tool-context", name: "Tool & context", mission: "How agents reach tools and context — the first layer that got standardized, and the most settled." , zhName: "工具与上下文", q: "How do agents reach tools? (the settled layer)", zhQ: "agent 怎么够到工具？（已定局层）" },
+  { id: "03", slug: "agent-to-agent", name: "Agent-to-agent", mission: "Protocols for independent agents to find, delegate to, and pay each other." , zhName: "agent 间", q: "How do independent agents find & delegate?", zhQ: "独立 agent 怎么互相发现与委托？" },
+  { id: "04", slug: "agent-to-ui", name: "Agent-to-UI & editor", mission: "How interfaces (editors, web UIs) drive an agent and render its work." , zhName: "agent-界面", q: "How do interfaces drive agents?", zhQ: "界面怎么驱动 agent？" },
+  { id: "05", slug: "harness-interfaces", name: "Harness interfaces", mission: "Programming interfaces for driving ANY harness with one API — the actively contested slot." , zhName: "harness 接口", q: "One API for ANY harness — the contested slot", zhQ: "一套 API 驱动任意 harness——争夺中的槽位" },
+  { id: "06", slug: "runtimes", name: "Runtimes & harnesses", mission: "The agent execution loops themselves: model ↔ tools ↔ files, with sessions, approvals, compaction." , zhName: "运行时与 harness", q: "What actually runs the model↔tools↔files loop?", zhQ: "谁在跑“模型↔工具↔文件”的循环？" },
+  { id: "07", slug: "orchestration", name: "Orchestration & swarms", mission: "Multi-agent coordination, teaming, and cluster-scale task running." , zhName: "编排与蜂群", q: "How do many agents coordinate?", zhQ: "多 agent 怎么协同？" },
+  { id: "08", slug: "delivery", name: "Delivery & SOP", mission: "Turning agent work into governed deliveries: pipelines, human gates, SOPs." , zhName: "交付与 SOP", q: "How does agent work become governed deliveries?", zhQ: "agent 的工作怎么变成受治理的交付？" },
+  { id: "09", slug: "cockpits", name: "Cockpits", mission: "The surfaces humans steer fleets from — web panels, phone apps, desktop decks." , zhName: "驾驶舱", q: "Where do humans steer fleets from?", zhQ: "人从哪里指挥舰队？" },
+  { id: "10", slug: "durable", name: "Durable execution", mission: "Checkpointing, resumption, and workflow state that survives crashes." , zhName: "持久执行", q: "What survives the crash?", zhQ: "什么能挺过崩溃？" },
+  { id: "11", slug: "sandboxing", name: "Sandboxing & substrate", mission: "Isolation for untrusted agent work — from worktrees to gVisor actors." , zhName: "沙箱与基底", q: "How is untrusted work isolated?", zhQ: "不受信的工作怎么隔离？" },
+  { id: "12", slug: "observability", name: "Observability & diaries", mission: "Recording what agents did: session diaries, ledgers, traces." , zhName: "可观测与日记", q: "What did the agents actually do?", zhQ: "agent 到底做了什么？" },
+  { id: "13", slug: "governance", name: "Governance, admission & evidence", mission: "WHO may act, on WHAT evidence, approved by WHOM. The blank continent — every other list skips it." , zhName: "治理、准入与证据", q: "Who may act, on what evidence, approved by whom?", zhQ: "谁可以行动、凭什么证据、由谁批准？" },
 ];
 
 export const ENTRIES = [

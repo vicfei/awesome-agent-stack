@@ -36,4 +36,30 @@ for (const layer of LAYERS) {
   L.push("");
   writeFileSync(join(root, "atlas", `${layer.id}-${layer.slug}.md`), L.join("\n"));
 }
-console.log(`rendered ${LAYERS.length} layer files, ${ENTRIES.length} entries`);
+// README layer-index tables with a machine-generated "representative projects" column:
+// top-2 entries per layer BY STARS from metrics.json — data decides, not taste (EDITORIAL-POLICY §4).
+const fmtStars = (n) => (n >= 1000 ? `${Math.round(n / 100) / 10}k★` : `${n}★`);
+// A repo represents its FIRST layer only (DSH's agent-team belongs to 06's DSH pick, not 07's) —
+// otherwise package-style entries inherit the host repo's stars and double-count.
+const seenRepos = new Set();
+const topByStars = (layerId) => ENTRIES
+  .filter((e) => e.layer === layerId && !seenRepos.has(e.repo))
+  .map((e) => ({ e, stars: Number(m(e.repo, "stars")) || 0 }))
+  .sort((a, b) => b.stars - a.stars)
+  .slice(0, 2)
+  .map(({ e, stars }) => { seenRepos.add(e.repo); return `[${e.name}](https://github.com/${e.repo}) ${fmtStars(stars)}`; });
+for (const [file, lang] of [[join(root, "README.md"), "en"], [join(root, "README.zh-CN.md"), "zh"]]) {
+  let readme = readFileSync(file, "utf8");
+  const rows = LAYERS.map((l) => {
+    const name = lang === "zh" ? l.zhName : l.name;
+    const q = lang === "zh" ? l.zhQ : l.q;
+    const reps = topByStars(l.id).join(" · ");
+    return `| [${l.id}](atlas/${l.id}-${l.slug}.md) | ${name} | ${q} | ${reps} |`;
+  }).join("\n");
+  const table = (lang === "en"
+    ? `| # | Layer | The question it answers | Representative projects |\n|---|---|---|---|\n${rows}`
+    : `| # | 层 | 回答的问题 | 代表项目 |\n|---|---|---|---|\n${rows}`);
+  readme = readme.replace(/<!-- BEGIN layer-index -->[\s\S]*?<!-- END layer-index -->/, `<!-- BEGIN layer-index -->\n${table}\n<!-- END layer-index -->`);
+  writeFileSync(file, readme);
+}
+console.log(`rendered ${LAYERS.length} layer files, ${ENTRIES.length} entries, 2 README indexes`);
