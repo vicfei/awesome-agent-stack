@@ -7,5 +7,5 @@
 | [LoopForge](https://github.com/Tencent/LoopForge) | delivery orchestrator | 🟡 beta | 4033 | 360 | 2026-11-19 | ✓ |
 
 ### notes
-- **LoopForge** — Self-hosted coding-agent delivery: SOP engine with Agent/Script/Human-gate nodes, per-conversation sandboxes. *(source-verified 2026-11-17)*
-  - Human-INITIATED flows (no event-driven admission), workflow checkpoints rather than tamper-evident audit. Closest architectural neighbor to dsh's ticket pipeline.
+- **LoopForge** — Self-hosted coding-agent delivery: SOP engine with Agent/Script/Human-gate nodes, per-conversation sandboxes. *(source-verified 2026-11-19)*
+  - Positioning moved to 'human on the loop' (pause/steer/take over, approval gates, needs-review inbox) — but supervision is in-flow and manual: human-INITIATED flows (no event-driven admission), permission modes undocumented, workflow state rather than tamper-evident audit, multi-tenant safety explicitly disclaimed. On-the-loop is UX; earned autonomy is absent. Fast riser: 2.7k→4k stars in two days (Tencent stacking trpc-agent-go + LoopForge).
