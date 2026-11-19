@@ -4,10 +4,10 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [agent-team (DSH)](https://github.com/deepseek-ai/deepseek-harness) | experimental package | ⚪ experimental | 284153 | 14842 | 2026-11-18 | ✗ |
+| [agent-team (DSH)](https://github.com/deepseek-ai/deepseek-harness) | experimental package | ⚪ experimental | 284167 | 14841 | 2026-11-18 | ✗ |
 | [AgentTeams](https://github.com/agentscope-ai/AgentTeams) | multi-agent OS | 🟡 beta | 6054 | 317 | 2026-11-19 | ✓ |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | framework | 🟢 production | 45157 | 274 | 2026-11-19 | ✗ |
-| [AX (Agent Executor)](https://github.com/google/ax) | cluster orchestrator | ⚪ experimental | 14806 | 120 | 2026-11-19 | ✗ |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | framework | 🟢 production | 45158 | 274 | 2026-11-19 | ✗ |
+| [AX (Agent Executor)](https://github.com/google/ax) | cluster orchestrator | ⚪ experimental | 14806 | 122 | 2026-11-19 | ✗ |
 | [AutoSwarm](https://github.com/HKUDS/AutoSwarm) | orchestrator + desktop | 🟡 beta | 2661 | 110 | 2026-11-19 | ✓ |
 | [AgentCore](https://github.com/awslabs/agentcore-samples) | framework | 🟡 beta | 3540 | 90 | 2026-11-19 | ✗ |
 

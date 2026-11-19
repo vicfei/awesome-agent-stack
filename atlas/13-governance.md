@@ -4,7 +4,7 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [dsh-super-agent](https://github.com/vicfei/dsh-super-agent) | governance daemon | 🟡 beta | 26 | 114 | 2026-11-18 | ✓ |
+| [dsh-super-agent](https://github.com/vicfei/dsh-super-agent) | governance daemon | 🟡 beta | 26 | 115 | 2026-11-19 | ✓ |
 | [Piccolo](https://github.com/agentscope-ai/Piccolo) | decision models | 🟡 beta | 58 | 35 | 2026-11-13 | ✓ |
 
 ### notes
