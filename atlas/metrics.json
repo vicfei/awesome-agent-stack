@@ -1,88 +1,88 @@
 {
   "microsoft/language-server-protocol": {
-    "stars": 13085,
+    "stars": 13091,
     "pushed": "2026-11-16T09:44:27Z",
     "lastRelease": "2026-11-16",
-    "commits90d": 33,
+    "commits90d": 31,
     "archived": false
   },
   "openai/agents.md": {
-    "stars": 25605,
+    "stars": 25671,
     "pushed": "2026-09-10T18:46:16Z",
     "lastRelease": "2026-09-10",
-    "commits90d": 3,
+    "commits90d": 2,
     "archived": false
   },
   "anthropics/skills": {
-    "stars": 197638,
+    "stars": 199362,
     "pushed": "2026-11-16T14:22:50Z",
     "lastRelease": "2026-11-16",
     "commits90d": 12,
     "archived": false
   },
   "AnswerDotAI/llms-txt": {
-    "stars": 2695,
+    "stars": 2701,
     "pushed": "2026-09-24T18:21:11Z",
     "lastRelease": "2026-09-24",
     "commits90d": 8,
     "archived": false
   },
   "modelcontextprotocol/modelcontextprotocol": {
-    "stars": 9725,
-    "pushed": "2026-11-19T16:39:32Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 290,
+    "stars": 9755,
+    "pushed": "2026-11-23T15:22:06Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 273,
     "archived": false
   },
   "vercel/agents-json": {
     "error": "Not Found"
   },
   "microsoft/nlweb": {
-    "stars": 6261,
+    "stars": 6263,
     "pushed": "2026-08-11T20:35:58Z",
     "lastRelease": "2026-08-11",
     "commits90d": 0,
     "archived": false
   },
   "a2aproject/A2A": {
-    "stars": 26596,
-    "pushed": "2026-11-18T11:37:16Z",
-    "lastRelease": "2026-11-18",
-    "commits90d": 52,
+    "stars": 26643,
+    "pushed": "2026-11-20T12:53:38Z",
+    "lastRelease": "2026-11-20",
+    "commits90d": 48,
     "archived": false
   },
   "agent-network-protocol/ANP": {
     "stars": 359,
     "pushed": "2026-11-13T12:28:17Z",
     "lastRelease": "2026-11-13",
-    "commits90d": 76,
+    "commits90d": 64,
     "archived": false
   },
   "nepsig/aitp": {
     "error": "Not Found"
   },
   "zed-industries/agent-client-protocol": {
-    "stars": 4682,
-    "pushed": "2026-11-19T15:35:07Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 802,
+    "stars": 4724,
+    "pushed": "2026-11-23T14:21:31Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 868,
     "archived": false
   },
   "ag-ui-protocol/ag-ui": {
-    "stars": 20602,
-    "pushed": "2026-11-19T07:05:09Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 1907,
+    "stars": 21340,
+    "pushed": "2026-11-22T21:50:14Z",
+    "lastRelease": "2026-11-22",
+    "commits90d": 1877,
     "archived": false
   },
   "zed-industries/lsap": {
     "error": "Not Found"
   },
   "botiverse/oar": {
-    "stars": 662,
-    "pushed": "2026-11-19T19:20:39Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 1065,
+    "stars": 754,
+    "pushed": "2026-11-23T17:37:21Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 1113,
     "archived": false
   },
   "universal-harness/protocol": {
@@ -96,157 +96,157 @@
     "archived": false
   },
   "deepseek-ai/deepseek-harness": {
-    "stars": 284167,
-    "pushed": "2026-11-18T12:48:10Z",
-    "lastRelease": "2026-11-18",
-    "commits90d": 14841,
+    "stars": 285997,
+    "pushed": "2026-11-22T11:00:05Z",
+    "lastRelease": "2026-11-22",
+    "commits90d": 14885,
     "archived": false
   },
   "anthropics/claude-code": {
-    "stars": 156318,
-    "pushed": "2026-11-19T18:01:55Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 339,
+    "stars": 156801,
+    "pushed": "2026-11-23T10:14:33Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 372,
     "archived": false
   },
   "openai/codex": {
-    "stars": 135883,
-    "pushed": "2026-11-19T19:05:33Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 4247,
+    "stars": 136238,
+    "pushed": "2026-11-23T17:27:13Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 4270,
     "archived": false
   },
   "sst/opencode": {
-    "stars": 228009,
-    "pushed": "2026-11-19T19:22:42Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 5523,
+    "stars": 228769,
+    "pushed": "2026-11-23T17:33:29Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 5446,
     "archived": false
   },
   "google-gemini/gemini-cli": {
-    "stars": 108939,
-    "pushed": "2026-11-19T18:29:38Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 252,
+    "stars": 109021,
+    "pushed": "2026-11-23T01:21:53Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 253,
     "archived": false
   },
   "getcursor/cursor": {
-    "stars": 33342,
+    "stars": 33353,
     "pushed": "2026-05-12T15:25:06Z",
     "lastRelease": "2026-05-12",
     "commits90d": 0,
     "archived": false
   },
   "HKUDS/AutoSwarm": {
-    "stars": 2661,
-    "pushed": "2026-11-19T02:27:40Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 110,
+    "stars": 2680,
+    "pushed": "2026-11-22T16:40:26Z",
+    "lastRelease": "2026-11-22",
+    "commits90d": 127,
     "archived": false
   },
   "google/ax": {
-    "stars": 14806,
-    "pushed": "2026-11-19T19:21:30Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 122,
+    "stars": 14861,
+    "pushed": "2026-11-23T04:53:41Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 147,
     "archived": false
   },
   "langchain-ai/langgraph": {
-    "stars": 45158,
-    "pushed": "2026-11-19T14:16:17Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 274,
+    "stars": 45309,
+    "pushed": "2026-11-23T17:08:11Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 278,
     "archived": false
   },
   "awslabs/agentcore-samples": {
-    "stars": 3540,
-    "pushed": "2026-11-19T17:10:08Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 90,
+    "stars": 3544,
+    "pushed": "2026-11-23T09:24:59Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 81,
     "archived": false
   },
   "Tencent/LoopForge": {
-    "stars": 4040,
-    "pushed": "2026-11-19T18:30:12Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 360,
+    "stars": 5855,
+    "pushed": "2026-11-23T17:36:31Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 397,
     "archived": false
   },
   "pingdotgg/t3code": {
-    "stars": 66228,
-    "pushed": "2026-11-19T19:25:43Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 9769,
+    "stars": 74270,
+    "pushed": "2026-11-23T17:41:55Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 10454,
     "archived": false
   },
   "getpaseo/paseo": {
-    "stars": 24458,
-    "pushed": "2026-11-19T15:10:28Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 1613,
+    "stars": 24777,
+    "pushed": "2026-11-23T16:46:01Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 1644,
     "archived": false
   },
   "ccch1mneyyy/dsh-Go": {
-    "stars": 28123,
-    "pushed": "2026-11-19T19:04:21Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 2914,
+    "stars": 30698,
+    "pushed": "2026-11-23T17:42:13Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 3835,
     "archived": false
   },
   "temporalio/temporal": {
-    "stars": 24506,
-    "pushed": "2026-11-19T19:24:26Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 551,
+    "stars": 24571,
+    "pushed": "2026-11-23T17:42:01Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 553,
     "archived": false
   },
   "restatedev/restate": {
-    "stars": 4721,
-    "pushed": "2026-11-19T17:46:43Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 568,
+    "stars": 4736,
+    "pushed": "2026-11-23T16:01:49Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 610,
     "archived": false
   },
   "dapr/dapr-agents": {
-    "stars": 778,
+    "stars": 776,
     "pushed": "2026-11-12T04:23:20Z",
     "lastRelease": "2026-11-12",
-    "commits90d": 291,
+    "commits90d": 274,
     "archived": false
   },
   "agent-substrate/substrate": {
-    "stars": 7779,
-    "pushed": "2026-11-19T18:02:58Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 1149,
+    "stars": 8211,
+    "pushed": "2026-11-22T17:51:39Z",
+    "lastRelease": "2026-11-22",
+    "commits90d": 1140,
     "archived": false
   },
   "vicfei/dsh-super-agent": {
-    "stars": 26,
-    "pushed": "2026-11-19T18:55:30Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 115,
+    "stars": 29,
+    "pushed": "2026-11-22T18:03:14Z",
+    "lastRelease": "2026-11-22",
+    "commits90d": 132,
     "archived": false
   },
   "vicfei/agentdiary": {
     "stars": 1,
-    "pushed": "2026-11-18T13:02:56Z",
-    "lastRelease": "2026-11-18",
+    "pushed": "2026-11-23T08:25:40Z",
+    "lastRelease": "2026-11-23",
     "commits90d": 6,
     "archived": false
   },
   "vicfei/agentdiary-dsh-plugin": {
     "stars": 0,
-    "pushed": "2026-11-18T16:29:06Z",
-    "lastRelease": "2026-11-18",
-    "commits90d": 14,
+    "pushed": "2026-11-23T09:56:17Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 19,
     "archived": false
   },
   "vicfei/dsh-evidence-plugin": {
     "stars": 0,
-    "pushed": "2026-11-18T06:04:54Z",
-    "lastRelease": "2026-11-18",
-    "commits90d": 10,
+    "pushed": "2026-11-23T17:41:33Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 11,
     "archived": false
   },
   "viandikafauzi/agent-diary": {
@@ -257,24 +257,24 @@
     "archived": false
   },
   "agentscope-ai/Piccolo": {
-    "stars": 58,
-    "pushed": "2026-11-13T06:39:02Z",
-    "lastRelease": "2026-11-13",
+    "stars": 64,
+    "pushed": "2026-11-23T06:45:40Z",
+    "lastRelease": "2026-11-23",
     "commits90d": 35,
     "archived": false
   },
   "agentscope-ai/AgentTeams": {
-    "stars": 6054,
-    "pushed": "2026-11-19T19:20:12Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 317,
+    "stars": 6122,
+    "pushed": "2026-11-23T17:38:35Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 324,
     "archived": false
   },
   "loopx-project/loopx": {
-    "stars": 6724,
-    "pushed": "2026-11-19T19:18:55Z",
-    "lastRelease": "2026-11-19",
-    "commits90d": 12342,
+    "stars": 6747,
+    "pushed": "2026-11-23T17:34:43Z",
+    "lastRelease": "2026-11-23",
+    "commits90d": 12464,
     "archived": false
   }
 }

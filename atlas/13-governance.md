@@ -4,8 +4,8 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [dsh-super-agent](https://github.com/vicfei/dsh-super-agent) | governance daemon | 🟡 beta | 26 | 115 | 2026-11-19 | ✓ |
-| [Piccolo](https://github.com/agentscope-ai/Piccolo) | decision models | 🟡 beta | 58 | 35 | 2026-11-13 | ✓ |
+| [dsh-super-agent](https://github.com/vicfei/dsh-super-agent) | governance daemon | 🟡 beta | 29 | 132 | 2026-11-22 | ✓ |
+| [Piccolo](https://github.com/agentscope-ai/Piccolo) | decision models | 🟡 beta | 64 | 35 | 2026-11-23 | ✓ |
 
 ### notes
 - **dsh-super-agent** — Admission control & the earned-autonomy ladder for any CLI agent — the (currently only) resident of this layer. *(source-verified 2026-11-18)*

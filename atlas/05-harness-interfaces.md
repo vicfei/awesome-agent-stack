@@ -4,7 +4,7 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [OAR](https://github.com/botiverse/oar) | SDK + CLI + MCP | 🟡 beta | 662 | 1065 | 2026-11-19 | ✗ |
+| [OAR](https://github.com/botiverse/oar) | SDK + CLI + MCP | 🟡 beta | 754 | 1113 | 2026-11-23 | ✗ |
 | [Agent Protocol](https://github.com/langchain-ai/agent-protocol) | HTTP spec + SDKs | 🟡 beta | 698 | 28 | 2026-11-19 | ✗ |
 | [UHP](https://github.com/universal-harness/protocol) | HTTP spec | ⚪ experimental | — | — | — | ✗ |
 
