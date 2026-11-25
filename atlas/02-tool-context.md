@@ -4,8 +4,8 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [MCP](https://github.com/modelcontextprotocol/modelcontextprotocol) | wire protocol | 🟢 production | 9725 | 290 | 2026-11-19 | ✗ |
-| [NLWeb](https://github.com/microsoft/nlweb) | protocol | ⚪ experimental | 6261 | 0 | 2026-08-11 | ✗ |
+| [MCP](https://github.com/modelcontextprotocol/modelcontextprotocol) | wire protocol | 🟢 production | 9755 | 273 | 2026-11-23 | ✗ |
+| [NLWeb](https://github.com/microsoft/nlweb) | protocol | ⚪ experimental | 6263 | 0 | 2026-08-11 | ✗ |
 | [agents.json](https://github.com/vercel/agents-json) | convention | ⚪ experimental | — | — | — | ✗ |
 
 ### notes

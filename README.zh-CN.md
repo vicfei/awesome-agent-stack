@@ -16,11 +16,11 @@
 | [03](atlas/03-agent-to-agent.md) | agent 间 | 独立 agent 怎么互相发现与委托？ | [AITP](https://github.com/nepsig/aitp) 0★ |
 | [04](atlas/04-agent-to-ui.md) | agent-界面 | 界面怎么驱动 agent？ | [LSAP](https://github.com/zed-industries/lsap) 0★ |
 | [05](atlas/05-harness-interfaces.md) | harness 接口 | 一套 API 驱动任意 harness——争夺中的槽位 | [UHP](https://github.com/universal-harness/protocol) 0★ |
-| [06](atlas/06-runtimes.md) | 运行时与 harness | 谁在跑“模型↔工具↔文件”的循环？ | [Claude Code](https://github.com/anthropics/claude-code) 156.3k★ · [Codex](https://github.com/openai/codex) 135.9k★ |
+| [06](atlas/06-runtimes.md) | 运行时与 harness | 谁在跑“模型↔工具↔文件”的循环？ | [Claude Code](https://github.com/anthropics/claude-code) 156.8k★ · [Codex](https://github.com/openai/codex) 136.2k★ |
 | [07](atlas/07-orchestration.md) | 编排与蜂群 | 多 agent 怎么协同？ | [AgentTeams](https://github.com/agentscope-ai/AgentTeams) 6.1k★ · [AgentCore](https://github.com/awslabs/agentcore-samples) 3.5k★ |
 | [08](atlas/08-delivery.md) | 交付与 SOP | agent 的工作怎么变成受治理的交付？ |  |
-| [09](atlas/09-cockpits.md) | 驾驶舱 | 人从哪里指挥舰队？ | [Paseo](https://github.com/getpaseo/paseo) 24.5k★ |
-| [10](atlas/10-durable.md) | 持久执行 | 什么能挺过崩溃？ | [Restate](https://github.com/restatedev/restate) 4.7k★ · [dapr-agents](https://github.com/dapr/dapr-agents) 778★ |
+| [09](atlas/09-cockpits.md) | 驾驶舱 | 人从哪里指挥舰队？ | [Paseo](https://github.com/getpaseo/paseo) 24.8k★ |
+| [10](atlas/10-durable.md) | 持久执行 | 什么能挺过崩溃？ | [Restate](https://github.com/restatedev/restate) 4.7k★ · [dapr-agents](https://github.com/dapr/dapr-agents) 776★ |
 | [11](atlas/11-sandboxing.md) | 沙箱与基底 | 不受信的工作怎么隔离？ |  |
 | [12](atlas/12-observability.md) | 可观测与日记 | agent 到底做了什么？ | [dsh-evidence-plugin](https://github.com/vicfei/dsh-evidence-plugin) 0★ · [agent-diary](https://github.com/viandikafauzi/agent-diary) 0★ |
 | [13](atlas/13-governance.md) | 治理、准入与证据 | 谁可以行动、凭什么证据、由谁批准？ |  |

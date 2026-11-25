@@ -4,12 +4,12 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) | runtime | 🟢 production | 284167 | 14841 | 2026-11-18 | ✗ |
-| [OpenCode](https://github.com/sst/opencode) | runtime | 🟡 beta | 228009 | 5523 | 2026-11-19 | ✗ |
-| [Codex](https://github.com/openai/codex) | runtime | 🟢 production | 135883 | 4247 | 2026-11-19 | ✗ |
-| [Claude Code](https://github.com/anthropics/claude-code) | runtime | 🟢 production | 156318 | 339 | 2026-11-19 | ✗ |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | runtime | 🟡 beta | 108939 | 252 | 2026-11-19 | ✗ |
-| [Cursor](https://github.com/getcursor/cursor) | runtime (IDE) | 🟢 production | 33342 | 0 | 2026-05-12 | ✗ |
+| [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) | runtime | 🟢 production | 285997 | 14885 | 2026-11-22 | ✗ |
+| [OpenCode](https://github.com/sst/opencode) | runtime | 🟡 beta | 228769 | 5446 | 2026-11-23 | ✗ |
+| [Codex](https://github.com/openai/codex) | runtime | 🟢 production | 136238 | 4270 | 2026-11-23 | ✗ |
+| [Claude Code](https://github.com/anthropics/claude-code) | runtime | 🟢 production | 156801 | 372 | 2026-11-23 | ✗ |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | runtime | 🟡 beta | 109021 | 253 | 2026-11-23 | ✗ |
+| [Cursor](https://github.com/getcursor/cursor) | runtime (IDE) | 🟢 production | 33353 | 0 | 2026-05-12 | ✗ |
 
 ### notes
 - **DeepSeek Harness** — The open agent runtime with a full plugin system (Cordis), profiles, skills, MCP. *(source-verified 2026-11-18)*
