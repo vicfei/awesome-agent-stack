@@ -41,7 +41,7 @@ for (const layer of LAYERS) {
 const fmtStars = (n) => (n >= 1000 ? `${Math.round(n / 100) / 10}k★` : `${n}★`);
 // A repo represents its FIRST layer only (DSH's agent-team belongs to 06's DSH pick, not 07's) —
 // otherwise package-style entries inherit the host repo's stars and double-count.
-const seenRepos = new Set();
+let seenRepos = new Set(); // reset per README below — otherwise the second file renders the leftovers
 const topByStars = (layerId) => ENTRIES
   .filter((e) => e.layer === layerId && !seenRepos.has(e.repo) && !e.noRep)
   .map((e) => ({ e, stars: Number(m(e.repo, "stars")) || 0 }))
@@ -49,6 +49,7 @@ const topByStars = (layerId) => ENTRIES
   .slice(0, 2)
   .map(({ e, stars }) => { seenRepos.add(e.repo); return `[${e.name}](https://github.com/${e.repo}) ${fmtStars(stars)}`; });
 for (const [file, lang] of [[join(root, "README.md"), "en"], [join(root, "README.zh-CN.md"), "zh"]]) {
+  seenRepos = new Set();
   let readme = readFileSync(file, "utf8");
   const rows = LAYERS.map((l) => {
     const name = lang === "zh" ? l.zhName : l.name;

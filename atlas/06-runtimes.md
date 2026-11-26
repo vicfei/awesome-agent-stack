@@ -4,12 +4,13 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) | runtime | 🟢 production | 285997 | 14885 | 2026-11-22 | ✗ |
-| [OpenCode](https://github.com/sst/opencode) | runtime | 🟡 beta | 228769 | 5446 | 2026-11-23 | ✗ |
-| [Codex](https://github.com/openai/codex) | runtime | 🟢 production | 136238 | 4270 | 2026-11-23 | ✗ |
-| [Claude Code](https://github.com/anthropics/claude-code) | runtime | 🟢 production | 156801 | 372 | 2026-11-23 | ✗ |
-| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | runtime | 🟡 beta | 109021 | 253 | 2026-11-23 | ✗ |
-| [Cursor](https://github.com/getcursor/cursor) | runtime (IDE) | 🟢 production | 33353 | 0 | 2026-05-12 | ✗ |
+| [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) | runtime | 🟢 production | 287545 | 14389 | 2026-11-22 | ✗ |
+| [OpenCode](https://github.com/sst/opencode) | runtime | 🟡 beta | 229371 | 5299 | 2026-11-26 | ✗ |
+| [Codex](https://github.com/openai/codex) | runtime | 🟢 production | 136567 | 4328 | 2026-11-26 | ✗ |
+| [docker-agent](https://github.com/docker/docker-agent) | runtime (CLI plugin) | 🟢 production | 4718 | 2526 | 2026-11-26 | ✗ |
+| [Claude Code](https://github.com/anthropics/claude-code) | runtime | 🟢 production | 157192 | 434 | 2026-11-26 | ✗ |
+| [Gemini CLI](https://github.com/google-gemini/gemini-cli) | runtime | 🟡 beta | 109184 | 258 | 2026-11-26 | ✗ |
+| [Cursor](https://github.com/getcursor/cursor) | runtime (IDE) | 🟢 production | 33361 | 0 | 2026-05-12 | ✗ |
 
 ### notes
 - **DeepSeek Harness** — The open agent runtime with a full plugin system (Cordis), profiles, skills, MCP. *(source-verified 2026-11-18)*
@@ -17,6 +18,8 @@
   - adopted by: official 279k★ ecosystem, dsh plugins
 - **OpenCode** — Provider-agnostic open coding agent. *(not yet source-verified)*
 - **Codex** — OpenAI's coding agent CLI. *(not yet source-verified)*
+- **docker-agent** — Docker Engineering's agent builder & runtime — YAML-defined agents with MCP toolsets and multi-agent teams, packaged and shared as OCI artifacts. *(source-verified 2026-11-27)*
+  - docker CLI plugin, pre-installed in Docker Desktop 4.63+; agents are defined against a versioned config schema (agent-schema.json, now at v16) — model/instruction/toolsets incl. docker: MCP tooling; built-in think/todo/memory tools; pluggable RAG (BM25/embeddings/hybrid/rerank); provider-agnostic incl. local models via Docker Model Runner; `docker agent run <registry>/<agent>` pulls and runs agents as OCI artifacts. Uses itself to build itself.
 - **Claude Code** — Anthropic's coding agent CLI — subagents, skills, hooks, MCP. *(not yet source-verified)*
 - **Gemini CLI** — Google's open coding agent CLI. *(not yet source-verified)*
 - **Cursor** — The agent-native IDE. *(not yet source-verified)*

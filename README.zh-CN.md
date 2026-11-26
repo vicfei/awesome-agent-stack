@@ -11,19 +11,19 @@
 <!-- BEGIN layer-index -->
 | # | 层 | 回答的问题 | 代表项目 |
 |---|---|---|---|
-| [01](atlas/01-foundations.md) | 基础与格式 | 大家都在借用的约定是什么？ | [LSP](https://github.com/microsoft/language-server-protocol) 13.1k★ · [llms.txt](https://github.com/AnswerDotAI/llms-txt) 2.7k★ |
-| [02](atlas/02-tool-context.md) | 工具与上下文 | agent 怎么够到工具？（已定局层） | [agents.json](https://github.com/vercel/agents-json) 0★ |
-| [03](atlas/03-agent-to-agent.md) | agent 间 | 独立 agent 怎么互相发现与委托？ | [AITP](https://github.com/nepsig/aitp) 0★ |
-| [04](atlas/04-agent-to-ui.md) | agent-界面 | 界面怎么驱动 agent？ | [LSAP](https://github.com/zed-industries/lsap) 0★ |
-| [05](atlas/05-harness-interfaces.md) | harness 接口 | 一套 API 驱动任意 harness——争夺中的槽位 | [UHP](https://github.com/universal-harness/protocol) 0★ |
-| [06](atlas/06-runtimes.md) | 运行时与 harness | 谁在跑“模型↔工具↔文件”的循环？ | [Claude Code](https://github.com/anthropics/claude-code) 156.8k★ · [Codex](https://github.com/openai/codex) 136.2k★ |
-| [07](atlas/07-orchestration.md) | 编排与蜂群 | 多 agent 怎么协同？ | [AgentTeams](https://github.com/agentscope-ai/AgentTeams) 6.1k★ · [AgentCore](https://github.com/awslabs/agentcore-samples) 3.5k★ |
-| [08](atlas/08-delivery.md) | 交付与 SOP | agent 的工作怎么变成受治理的交付？ |  |
-| [09](atlas/09-cockpits.md) | 驾驶舱 | 人从哪里指挥舰队？ | [Paseo](https://github.com/getpaseo/paseo) 24.8k★ |
-| [10](atlas/10-durable.md) | 持久执行 | 什么能挺过崩溃？ | [Restate](https://github.com/restatedev/restate) 4.7k★ · [dapr-agents](https://github.com/dapr/dapr-agents) 776★ |
-| [11](atlas/11-sandboxing.md) | 沙箱与基底 | 不受信的工作怎么隔离？ |  |
-| [12](atlas/12-observability.md) | 可观测与日记 | agent 到底做了什么？ | [dsh-evidence-plugin](https://github.com/vicfei/dsh-evidence-plugin) 0★ · [agent-diary](https://github.com/viandikafauzi/agent-diary) 0★ |
-| [13](atlas/13-governance.md) | 治理、准入与证据 | 谁可以行动、凭什么证据、由谁批准？ |  |
+| [01](atlas/01-foundations.md) | 基础与格式 | 大家都在借用的约定是什么？ | [SKILL.md](https://github.com/anthropics/skills) 200.9k★ · [AGENTS.md](https://github.com/openai/agents.md) 25.7k★ |
+| [02](atlas/02-tool-context.md) | 工具与上下文 | agent 怎么够到工具？（已定局层） | [MCP](https://github.com/modelcontextprotocol/modelcontextprotocol) 9.8k★ · [NLWeb](https://github.com/microsoft/nlweb) 6.3k★ |
+| [03](atlas/03-agent-to-agent.md) | agent 间 | 独立 agent 怎么互相发现与委托？ | [A2A](https://github.com/a2aproject/A2A) 26.7k★ · [ANP](https://github.com/agent-network-protocol/ANP) 360★ |
+| [04](atlas/04-agent-to-ui.md) | agent-界面 | 界面怎么驱动 agent？ | [AG-UI](https://github.com/ag-ui-protocol/ag-ui) 21.8k★ · [Agent Client Protocol](https://github.com/zed-industries/agent-client-protocol) 4.8k★ |
+| [05](atlas/05-harness-interfaces.md) | harness 接口 | 一套 API 驱动任意 harness——争夺中的槽位 | [OAR](https://github.com/botiverse/oar) 782★ · [Agent Protocol](https://github.com/langchain-ai/agent-protocol) 700★ |
+| [06](atlas/06-runtimes.md) | 运行时与 harness | 谁在跑“模型↔工具↔文件”的循环？ | [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 287.5k★ · [OpenCode](https://github.com/sst/opencode) 229.4k★ |
+| [07](atlas/07-orchestration.md) | 编排与蜂群 | 多 agent 怎么协同？ | [LangGraph](https://github.com/langchain-ai/langgraph) 45.5k★ · [AX (Agent Executor)](https://github.com/google/ax) 14.9k★ |
+| [08](atlas/08-delivery.md) | 交付与 SOP | agent 的工作怎么变成受治理的交付？ | [LoopForge](https://github.com/Tencent/LoopForge) 6k★ |
+| [09](atlas/09-cockpits.md) | 驾驶舱 | 人从哪里指挥舰队？ | [t3code](https://github.com/pingdotgg/t3code) 80.7k★ · [herdr](https://github.com/herdrdev/herdr) 53k★ |
+| [10](atlas/10-durable.md) | 持久执行 | 什么能挺过崩溃？ | [Temporal](https://github.com/temporalio/temporal) 24.6k★ · [LoopX](https://github.com/loopx-project/loopx) 6.8k★ |
+| [11](atlas/11-sandboxing.md) | 沙箱与基底 | 不受信的工作怎么隔离？ | [OpenShell](https://github.com/ai-openshell/openshell) 22k★ · [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) 17.9k★ |
+| [12](atlas/12-observability.md) | 可观测与日记 | agent 到底做了什么？ | [agentdiary](https://github.com/vicfei/agentdiary) 1★ · [dsh-agentdiary-plugin](https://github.com/vicfei/agentdiary-dsh-plugin) 0★ |
+| [13](atlas/13-governance.md) | 治理、准入与证据 | 谁可以行动、凭什么证据、由谁批准？ | [nasiko](https://github.com/Nasiko-Labs/nasiko) 11.9k★ · [Piccolo](https://github.com/agentscope-ai/Piccolo) 68★ |
 <!-- END layer-index -->
 
 ## 怎么读
