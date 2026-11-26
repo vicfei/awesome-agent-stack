@@ -5,8 +5,8 @@
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
 | [dsh-agentdiary-plugin](https://github.com/vicfei/agentdiary-dsh-plugin) | DSH plugin | 🟡 beta | 0 | 19 | 2026-11-23 | ✗ |
-| [dsh-evidence-plugin](https://github.com/vicfei/dsh-evidence-plugin) | DSH plugin | 🟡 beta | 0 | 11 | 2026-11-23 | ✓ |
-| [agentdiary](https://github.com/vicfei/agentdiary) | CLI | 🟡 beta | 1 | 6 | 2026-11-23 | ✗ |
+| [dsh-evidence-plugin](https://github.com/vicfei/dsh-evidence-plugin) | DSH plugin | 🟡 beta | 0 | 12 | 2026-11-25 | ✓ |
+| [agentdiary](https://github.com/vicfei/agentdiary) | CLI | 🟡 beta | 1 | 8 | 2026-11-25 | ✗ |
 | [agent-diary](https://github.com/viandikafauzi/agent-diary) | CLI | 🟡 beta | 0 | 0 | 2026-08-11 | ✗ |
 
 ### notes
