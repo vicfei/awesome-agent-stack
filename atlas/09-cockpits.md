@@ -4,10 +4,10 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [t3code](https://github.com/pingdotgg/t3code) | cockpit | 🟢 production | 80675 | 11267 | 2026-11-26 | ✓ |
-| [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | mobile cockpit | 🟡 beta | 32605 | 4272 | 2026-11-26 | ✓ |
-| [Paseo](https://github.com/getpaseo/paseo) | cockpit | 🟡 beta | 25676 | 1663 | 2026-11-26 | ✗ |
-| [herdr](https://github.com/herdrdev/herdr) | cockpit (terminal fleet) | 🟡 beta | 53026 | 407 | 2026-11-19 | ✓ |
+| [t3code](https://github.com/pingdotgg/t3code) | cockpit | 🟢 production | 81063 | 11357 | 2026-11-27 | ✓ |
+| [dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) | mobile cockpit | 🟡 beta | 32760 | 4284 | 2026-11-26 | ✓ |
+| [Paseo](https://github.com/getpaseo/paseo) | cockpit | 🟡 beta | 25730 | 1667 | 2026-11-27 | ✗ |
+| [herdr](https://github.com/herdrdev/herdr) | cockpit (terminal fleet) | 🟡 beta | 53078 | 405 | 2026-11-19 | ✓ |
 
 ### notes
 - **t3code** — Control Claude Code/Codex/… from any device — approval-first UX, 64k★ in 9 months. *(source-verified 2026-11-18)*

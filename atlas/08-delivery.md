@@ -4,7 +4,7 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [LoopForge](https://github.com/Tencent/LoopForge) | delivery orchestrator | 🟡 beta | 5989 | 456 | 2026-11-26 | ✓ |
+| [LoopForge](https://github.com/Tencent/LoopForge) | delivery orchestrator | 🟡 beta | 6011 | 456 | 2026-11-27 | ✓ |
 
 ### notes
 - **LoopForge** — Self-hosted coding-agent delivery: SOP engine with Agent/Script/Human-gate nodes, per-conversation sandboxes. *(source-verified 2026-11-19)*

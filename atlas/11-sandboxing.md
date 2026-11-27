@@ -4,9 +4,9 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | sandbox runtime | 🟡 beta | 17946 | 2993 | 2026-11-26 | ✓ |
-| [Agent Substrate](https://github.com/agent-substrate/substrate) | substrate | 🟡 beta | 8409 | 1120 | 2026-11-25 | ✗ |
-| [OpenShell](https://github.com/ai-openshell/openshell) | sandbox runtime | 🟡 beta | 21964 | 962 | 2026-11-26 | ✓ |
+| [OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) | sandbox runtime | 🟡 beta | 17958 | 2994 | 2026-11-27 | ✓ |
+| [Agent Substrate](https://github.com/agent-substrate/substrate) | substrate | 🟡 beta | 8440 | 1099 | 2026-11-25 | ✗ |
+| [OpenShell](https://github.com/ai-openshell/openshell) | sandbox runtime | 🟡 beta | 21968 | 960 | 2026-11-26 | ✓ |
 | [worktree + bwrap pattern](https://github.com/vicfei/dsh-super-agent) | pattern | 🟢 production | 29 | 137 | 2026-11-25 | ✗ |
 
 ### notes

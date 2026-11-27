@@ -5,7 +5,7 @@
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
 | [ANP](https://github.com/agent-network-protocol/ANP) | wire protocol | ⚪ experimental | 360 | 61 | 2026-11-13 | ✗ |
-| [A2A](https://github.com/a2aproject/A2A) | wire protocol | 🟡 beta | 26701 | 49 | 2026-11-25 | ✗ |
+| [A2A](https://github.com/a2aproject/A2A) | wire protocol | 🟡 beta | 26707 | 49 | 2026-11-25 | ✗ |
 | [AITP](https://github.com/nepsig/aitp) | wire protocol | ⚪ experimental | — | — | — | ✗ |
 
 ### notes
