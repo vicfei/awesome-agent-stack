@@ -5,9 +5,9 @@
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
 | [LSP](https://github.com/microsoft/language-server-protocol) | protocol | 🟢 production | 13094 | 32 | 2026-11-26 | ✗ |
-| [SKILL.md](https://github.com/anthropics/skills) | convention | 🟡 beta | 200934 | 12 | 2026-11-16 | ✗ |
-| [llms.txt](https://github.com/AnswerDotAI/llms-txt) | convention | 🟡 beta | 2703 | 7 | 2026-09-24 | ✗ |
-| [AGENTS.md](https://github.com/openai/agents.md) | convention | 🟡 beta | 25718 | 2 | 2026-09-10 | ✗ |
+| [SKILL.md](https://github.com/anthropics/skills) | convention | 🟡 beta | 201074 | 12 | 2026-11-16 | ✗ |
+| [llms.txt](https://github.com/AnswerDotAI/llms-txt) | convention | 🟡 beta | 2702 | 7 | 2026-09-24 | ✗ |
+| [AGENTS.md](https://github.com/openai/agents.md) | convention | 🟡 beta | 25719 | 2 | 2026-09-10 | ✗ |
 
 ### notes
 - **LSP** — Language Server Protocol — editor↔language-tool, the ancestor template for agent interface layers. *(not yet source-verified)*

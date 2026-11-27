@@ -4,10 +4,10 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [LoopX](https://github.com/loopx-project/loopx) | control plane | 🟡 beta | 6766 | 12617 | 2026-11-26 | ✓ |
-| [Restate](https://github.com/restatedev/restate) | durable runtime | 🟢 production | 4748 | 628 | 2026-11-26 | ✗ |
-| [Temporal](https://github.com/temporalio/temporal) | durable runtime | 🟢 production | 24617 | 549 | 2026-11-26 | ✗ |
-| [dapr-agents](https://github.com/dapr/dapr-agents) | framework | 🟡 beta | 777 | 269 | 2026-11-26 | ✗ |
+| [LoopX](https://github.com/loopx-project/loopx) | control plane | 🟡 beta | 6767 | 12631 | 2026-11-27 | ✓ |
+| [Restate](https://github.com/restatedev/restate) | durable runtime | 🟢 production | 4751 | 628 | 2026-11-26 | ✗ |
+| [Temporal](https://github.com/temporalio/temporal) | durable runtime | 🟢 production | 24620 | 546 | 2026-11-27 | ✗ |
+| [dapr-agents](https://github.com/dapr/dapr-agents) | framework | 🟡 beta | 778 | 269 | 2026-11-26 | ✗ |
 
 ### notes
 - **LoopX** — The control plane for 24/7 always-on agents — durable state (goals/requirements/decisions/ownership/evidence) that survives sessions, restarts, and harness changes. *(source-verified 2026-11-19)*

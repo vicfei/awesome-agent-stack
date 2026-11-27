@@ -4,12 +4,12 @@
 
 | entry | form | status | ★ | 90d commits | last push | governance-adjacent |
 |---|---|---|---|---|---|---|
-| [agent-team (DSH)](https://github.com/deepseek-ai/deepseek-harness) | experimental package | ⚪ experimental | 287545 | 14389 | 2026-11-22 | ✗ |
+| [agent-team (DSH)](https://github.com/deepseek-ai/deepseek-harness) | experimental package | ⚪ experimental | 287671 | 14379 | 2026-11-22 | ✗ |
 | [AgentTeams](https://github.com/agentscope-ai/AgentTeams) | multi-agent OS | 🟡 beta | 6158 | 355 | 2026-11-26 | ✓ |
-| [LangGraph](https://github.com/langchain-ai/langgraph) | framework | 🟢 production | 45467 | 280 | 2026-11-26 | ✗ |
-| [AX (Agent Executor)](https://github.com/google/ax) | cluster orchestrator | ⚪ experimental | 14905 | 179 | 2026-11-26 | ✓ |
-| [AutoSwarm](https://github.com/HKUDS/AutoSwarm) | orchestrator + desktop | 🟡 beta | 2700 | 117 | 2026-11-26 | ✓ |
-| [AgentCore](https://github.com/awslabs/agentcore-samples) | framework | 🟡 beta | 3554 | 78 | 2026-11-25 | ✗ |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | framework | 🟢 production | 45482 | 280 | 2026-11-26 | ✗ |
+| [AX (Agent Executor)](https://github.com/google/ax) | cluster orchestrator | ⚪ experimental | 14909 | 179 | 2026-11-26 | ✓ |
+| [AutoSwarm](https://github.com/HKUDS/AutoSwarm) | orchestrator + desktop | 🟡 beta | 2701 | 117 | 2026-11-26 | ✓ |
+| [AgentCore](https://github.com/awslabs/agentcore-samples) | framework | 🟡 beta | 3554 | 77 | 2026-11-25 | ✗ |
 
 ### notes
 - **agent-team (DSH)** — DSH's native multi-agent roster/task-board (packages/experimental/agent-team). *(source-verified 2026-11-18)*

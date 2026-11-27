@@ -7,31 +7,31 @@
     "archived": false
   },
   "openai/agents.md": {
-    "stars": 25718,
+    "stars": 25719,
     "pushed": "2026-09-10T18:46:16Z",
     "lastRelease": "2026-09-10",
     "commits90d": 2,
     "archived": false
   },
   "anthropics/skills": {
-    "stars": 200934,
+    "stars": 201074,
     "pushed": "2026-11-16T14:22:50Z",
     "lastRelease": "2026-11-16",
     "commits90d": 12,
     "archived": false
   },
   "AnswerDotAI/llms-txt": {
-    "stars": 2703,
+    "stars": 2702,
     "pushed": "2026-09-24T18:21:11Z",
     "lastRelease": "2026-09-24",
     "commits90d": 7,
     "archived": false
   },
   "modelcontextprotocol/modelcontextprotocol": {
-    "stars": 9774,
-    "pushed": "2026-11-24T21:51:29Z",
-    "lastRelease": "2026-11-24",
-    "commits90d": 273,
+    "stars": 9775,
+    "pushed": "2026-11-26T20:04:05Z",
+    "lastRelease": "2026-11-26",
+    "commits90d": 277,
     "archived": false
   },
   "vercel/agents-json": {
@@ -45,7 +45,7 @@
     "archived": false
   },
   "a2aproject/A2A": {
-    "stars": 26701,
+    "stars": 26707,
     "pushed": "2026-11-25T14:51:19Z",
     "lastRelease": "2026-11-25",
     "commits90d": 49,
@@ -62,14 +62,14 @@
     "error": "Not Found"
   },
   "zed-industries/agent-client-protocol": {
-    "stars": 4750,
+    "stars": 4752,
     "pushed": "2026-11-26T14:02:26Z",
     "lastRelease": "2026-11-26",
-    "commits90d": 866,
+    "commits90d": 865,
     "archived": false
   },
   "ag-ui-protocol/ag-ui": {
-    "stars": 21823,
+    "stars": 21852,
     "pushed": "2026-11-26T01:43:15Z",
     "lastRelease": "2026-11-26",
     "commits90d": 1730,
@@ -80,13 +80,17 @@
   },
   "botiverse/oar": {
     "stars": 782,
-    "pushed": "2026-11-26T18:07:25Z",
+    "pushed": "2026-11-26T21:49:36Z",
     "lastRelease": "2026-11-26",
-    "commits90d": 1138,
+    "commits90d": 1139,
     "archived": false
   },
-  "universal-harness/protocol": {
-    "error": "Not Found"
+  "HarnessRouter/harnessrouter": {
+    "stars": 4570,
+    "pushed": "2026-11-26T23:26:47Z",
+    "lastRelease": "2026-11-26",
+    "commits90d": 637,
+    "archived": false
   },
   "langchain-ai/agent-protocol": {
     "stars": 700,
@@ -96,38 +100,38 @@
     "archived": false
   },
   "deepseek-ai/deepseek-harness": {
-    "stars": 287545,
+    "stars": 287671,
     "pushed": "2026-11-22T11:00:05Z",
     "lastRelease": "2026-11-22",
-    "commits90d": 14389,
+    "commits90d": 14379,
     "archived": false
   },
   "anthropics/claude-code": {
-    "stars": 157192,
-    "pushed": "2026-11-26T14:34:10Z",
+    "stars": 157230,
+    "pushed": "2026-11-26T22:31:56Z",
     "lastRelease": "2026-11-26",
-    "commits90d": 434,
+    "commits90d": 435,
     "archived": false
   },
   "openai/codex": {
-    "stars": 136567,
-    "pushed": "2026-11-26T18:06:00Z",
-    "lastRelease": "2026-11-26",
-    "commits90d": 4328,
+    "stars": 136590,
+    "pushed": "2026-11-27T01:15:08Z",
+    "lastRelease": "2026-11-27",
+    "commits90d": 4325,
     "archived": false
   },
   "sst/opencode": {
-    "stars": 229371,
-    "pushed": "2026-11-26T18:09:59Z",
-    "lastRelease": "2026-11-26",
-    "commits90d": 5299,
+    "stars": 229432,
+    "pushed": "2026-11-27T02:15:10Z",
+    "lastRelease": "2026-11-27",
+    "commits90d": 5245,
     "archived": false
   },
   "google-gemini/gemini-cli": {
-    "stars": 109184,
-    "pushed": "2026-11-26T01:12:06Z",
-    "lastRelease": "2026-11-26",
-    "commits90d": 258,
+    "stars": 109199,
+    "pushed": "2026-11-27T01:14:43Z",
+    "lastRelease": "2026-11-27",
+    "commits90d": 257,
     "archived": false
   },
   "getcursor/cursor": {
@@ -138,28 +142,28 @@
     "archived": false
   },
   "docker/docker-agent": {
-    "stars": 4718,
-    "pushed": "2026-11-26T11:40:49Z",
+    "stars": 4720,
+    "pushed": "2026-11-26T22:06:52Z",
     "lastRelease": "2026-11-26",
-    "commits90d": 2526,
+    "commits90d": 2539,
     "archived": false
   },
   "HKUDS/AutoSwarm": {
-    "stars": 2700,
+    "stars": 2701,
     "pushed": "2026-11-26T09:13:44Z",
     "lastRelease": "2026-11-26",
     "commits90d": 117,
     "archived": false
   },
   "google/ax": {
-    "stars": 14905,
-    "pushed": "2026-11-26T02:49:30Z",
+    "stars": 14909,
+    "pushed": "2026-11-26T19:51:04Z",
     "lastRelease": "2026-11-26",
     "commits90d": 179,
     "archived": false
   },
   "langchain-ai/langgraph": {
-    "stars": 45467,
+    "stars": 45482,
     "pushed": "2026-11-26T01:12:20Z",
     "lastRelease": "2026-11-26",
     "commits90d": 280,
@@ -169,70 +173,70 @@
     "stars": 3554,
     "pushed": "2026-11-25T23:58:37Z",
     "lastRelease": "2026-11-25",
-    "commits90d": 78,
+    "commits90d": 77,
     "archived": false
   },
   "Tencent/LoopForge": {
-    "stars": 5989,
-    "pushed": "2026-11-26T16:52:19Z",
-    "lastRelease": "2026-11-26",
+    "stars": 6011,
+    "pushed": "2026-11-27T01:17:18Z",
+    "lastRelease": "2026-11-27",
     "commits90d": 456,
     "archived": false
   },
   "pingdotgg/t3code": {
-    "stars": 80675,
-    "pushed": "2026-11-26T18:12:22Z",
-    "lastRelease": "2026-11-26",
-    "commits90d": 11267,
+    "stars": 81063,
+    "pushed": "2026-11-27T02:40:42Z",
+    "lastRelease": "2026-11-27",
+    "commits90d": 11357,
     "archived": false
   },
   "getpaseo/paseo": {
-    "stars": 25676,
-    "pushed": "2026-11-26T16:31:41Z",
-    "lastRelease": "2026-11-26",
-    "commits90d": 1663,
+    "stars": 25730,
+    "pushed": "2026-11-27T02:36:26Z",
+    "lastRelease": "2026-11-27",
+    "commits90d": 1667,
     "archived": false
   },
   "ccch1mneyyy/dsh-Go": {
-    "stars": 32605,
-    "pushed": "2026-11-26T18:11:25Z",
+    "stars": 32760,
+    "pushed": "2026-11-26T18:56:46Z",
     "lastRelease": "2026-11-26",
-    "commits90d": 4272,
+    "commits90d": 4284,
     "archived": false
   },
   "herdrdev/herdr": {
-    "stars": 53026,
+    "stars": 53078,
     "pushed": "2026-11-19T22:15:19Z",
     "lastRelease": "2026-11-19",
-    "commits90d": 407,
+    "commits90d": 405,
     "archived": false
   },
   "temporalio/temporal": {
-    "stars": 24617,
-    "pushed": "2026-11-26T16:14:31Z",
-    "lastRelease": "2026-11-26",
-    "commits90d": 549,
+    "stars": 24620,
+    "pushed": "2026-11-27T00:44:39Z",
+    "lastRelease": "2026-11-27",
+    "commits90d": 546,
     "archived": false
   },
   "restatedev/restate": {
-    "stars": 4748,
-    "pushed": "2026-11-26T17:21:00Z",
+    "stars": 4751,
+    "pushed": "2026-11-26T22:24:01Z",
     "lastRelease": "2026-11-26",
     "commits90d": 628,
     "archived": false
   },
   "dapr/dapr-agents": {
-    "stars": 777,
+    "stars": 778,
     "pushed": "2026-11-26T04:23:24Z",
     "lastRelease": "2026-11-26",
     "commits90d": 269,
     "archived": false
   },
   "agent-substrate/substrate": {
-    "stars": 8409,
+    "stars": 8440,
     "pushed": "2026-11-25T23:21:55Z",
     "lastRelease": "2026-11-25",
-    "commits90d": 1120,
+    "commits90d": 1099,
     "archived": false
   },
   "vicfei/dsh-super-agent": {
@@ -243,17 +247,17 @@
     "archived": false
   },
   "ai-openshell/openshell": {
-    "stars": 21964,
-    "pushed": "2026-11-26T17:58:27Z",
+    "stars": 21968,
+    "pushed": "2026-11-26T23:10:09Z",
     "lastRelease": "2026-11-26",
-    "commits90d": 962,
+    "commits90d": 960,
     "archived": false
   },
   "opensandbox-group/OpenSandbox": {
-    "stars": 17946,
-    "pushed": "2026-11-26T17:05:44Z",
-    "lastRelease": "2026-11-26",
-    "commits90d": 2993,
+    "stars": 17958,
+    "pushed": "2026-11-27T00:31:46Z",
+    "lastRelease": "2026-11-27",
+    "commits90d": 2994,
     "archived": false
   },
   "vicfei/agentdiary": {
@@ -306,10 +310,10 @@
     "archived": false
   },
   "loopx-project/loopx": {
-    "stars": 6766,
-    "pushed": "2026-11-26T18:12:46Z",
-    "lastRelease": "2026-11-26",
-    "commits90d": 12617,
+    "stars": 6767,
+    "pushed": "2026-11-27T02:42:41Z",
+    "lastRelease": "2026-11-27",
+    "commits90d": 12631,
     "archived": false
   }
 }
